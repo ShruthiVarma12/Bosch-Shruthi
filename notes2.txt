@@ -8,3 +8,4 @@ date':: for stash demo
 'date' :: for final activity
 Added change for ORT merge between local and remote
 VS Code change:to check the conflict commit/sync
+Added one more change to demo, conflict between local & repo, while commit/sync

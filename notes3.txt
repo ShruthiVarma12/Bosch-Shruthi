@@ -10,4 +10,4 @@ added change for protectecd branch demo
 checking rules applied or not
 check2
 check2 with atleast 1 approval
-added change for stale approval demo
+added change for stale approval demo2
